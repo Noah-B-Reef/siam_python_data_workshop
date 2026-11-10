@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/siam-python-data-workshop.iml" filepath="$PROJECT_DIR$/.idea/siam-python-data-workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/siam_python_data_workshop.iml" filepath="$PROJECT_DIR$/.idea/siam_python_data_workshop.iml" />
     </modules>
   </component>
 </project>
